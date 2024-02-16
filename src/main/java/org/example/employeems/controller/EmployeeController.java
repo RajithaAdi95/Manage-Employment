@@ -2,7 +2,6 @@ package org.example.employeems.controller;
 
 import org.example.employeems.dto.EmployeeDTO;
 import org.example.employeems.dto.ResponseDTO;
-import org.example.employeems.entity.Employee;
 import org.example.employeems.service.EmployeeService;
 import org.example.employeems.util.VarList;
 import org.springframework.beans.factory.annotation.Autowired;
